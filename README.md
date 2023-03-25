@@ -1,1 +1,1 @@
-# cqrs and event sourcing design patterns
+# cqrs and event sourcing design pattern
